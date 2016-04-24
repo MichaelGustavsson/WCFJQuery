@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="WCFJQuery.CustomerService" CodeBehind="CustomerService.svc.cs" %>
